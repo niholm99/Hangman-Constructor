@@ -1,0 +1,24 @@
+{
+  "name": "hangman_constructor",
+  "version": "1.0.0",
+  "description": "command line hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niholm99/Hangman-Constructor.git"
+  },
+  "author": "Nick Holmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niholm99/Hangman-Constructor/issues"
+  },
+  "homepage": "https://github.com/niholm99/Hangman-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "is-letter": "^1.1.1"
+  },
+  "devDependencies": {}
+}
